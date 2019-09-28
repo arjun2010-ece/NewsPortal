@@ -1,0 +1,11 @@
+/* input[type="text"]:focus{
+ outline: none !important;
+ border: none !important;
+ border-radius: 20px;
+} */
+
+input.form-control.search-news {
+ border-radius: 20px;
+ outline: none !important;
+ border: none !important;
+}
